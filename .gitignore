@@ -1,0 +1,12 @@
+temp/
+*.bat
+
+# IntellijIdea files
+.idea/
+.DS_Store
+sample/
+.yarnrc
+yarn.lock
+package__libs.json
+assets/js/__main.js
+assets/js/__main.min.js
